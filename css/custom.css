@@ -1,0 +1,70 @@
+
+@media (min-width:992px) {
+    .button {
+        display: none;
+    }
+}
+
+@media (min-width:600px){
+.about {
+    width: 550px;
+}
+}
+
+
+.slider-caption p {
+    color: #F5F5F5;
+}
+
+.slider-caption h2 {
+    color: #F5F5F5 !important;
+}
+
+.button-yellow {
+    background-color: #364F6B;
+    display: inline-block;
+;
+}
+
+
+.button-yellow:hover,.button-yellow:active {
+    background-color: #3FC1C9;
+    
+}
+
+.about {
+    
+    font-size: 18px;
+}
+
+.timings {  
+    color: #364F6B !important;
+}
+
+
+.driving {
+    color:#3FC1C9;
+    margin-bottom: 0px;
+}
+.driving:hover {
+    text-decoration:underline;
+    color: #2ed9e3;
+}
+.feature-box strong {
+    color: #3FC1C9;
+}
+
+
+.contact-footer {
+    text-align: center;
+}
+
+.contact-footer ol {
+    list-style: none;
+}
+
+.contact-footer a {
+    border-bottom: 1px solid #6A2C70;
+}
+
+
